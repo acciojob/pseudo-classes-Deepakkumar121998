@@ -1,10 +1,6 @@
-/*  your css code here. If applicable */
-:root {
-  --primary-color: skyblue;
-}
 
 body {
-  background-color: rgb(135, 206, 235);
+  background-color:skyblue;
 }
 .first-para{
 	background-color:black;
