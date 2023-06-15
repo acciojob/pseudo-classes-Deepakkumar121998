@@ -22,3 +22,7 @@ li:last-child{
 	background-color:white;
 	width:350px;	
 }
+li:nth-child(3) {
+  background-color: pink;
+	width:350px;
+}
